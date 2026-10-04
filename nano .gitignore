@@ -1,8 +1,0 @@
-# Системные файлы macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Файлы графов, которые создает ваш скрипт
-graph*
-dz3_graph/
